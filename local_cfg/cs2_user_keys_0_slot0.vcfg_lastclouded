@@ -1,0 +1,24 @@
+"config"
+{
+	"bindings"
+	{
+		"MOUSE1"		"+attack"
+		"c"		"+jp"
+		"v"		"clutch_mode_toggle"
+		"MWHEELUP"		"+jump"
+		"MWHEELDOWN"		"+jump"
+		"/"		"noclip"
+		"ALT"		"noclip"
+		"F2"		"pwa_rethrow_last_grenade"
+		"F3"		"sv_rethrow_last_grenade"
+		"q"		"<unbound>"
+		"n"		"+ljnb"
+		"x"		"player_ping"
+		"z"		"+runjp"
+		"="		"refundall"
+		"MOUSE5"		"slot7"
+		"j"		"mp_drop_knife_enable 1;subclass_change 507"
+		"l"		"ent_fire smokegrenade_projectile kill; stopsound"
+		"F4"		"sv_rethrow_last_grenade"
+	}
+}
