@@ -8,13 +8,13 @@
 ```
 ***
 **autoexec.cfg**  
-自动加载cfg
-`Z`**` - w跳投  
+自动加载cfg  
+`Z` - w跳投  
 `C` - 跳投  
 `N` - 大跳  
 `V` - 全局静音  
 `MOUSE5` - 切换闪光弹   
-`r_show_build_info 0` - 不显示左下角时间
+`r_show_build_info 0` - 不显示左下角时间  
   
   
 **prac.cfg**  
